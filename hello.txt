@@ -7,3 +7,7 @@ bbbbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddd
 zai ci tian jia nei rong
+add some content to hello.txt
+1111111111111
+qqqqqqqq
+
